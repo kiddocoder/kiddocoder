@@ -4,19 +4,19 @@
   <img src="https://kiddocoder.github.io/portfolio/images/tresor.jpg" alt="Profile Image" width="150" style="border-radius: 50%;">
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/your-profile-link">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a>&nbsp;
 
   <a href="https://x.com/@kiddocoder">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=111&logoColor=white&labelColor=&style=for-the-badge" alt="Twitter Badge"/>
-  </a>
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" alt="Twitter Badge"/>
+  </a>&nbsp;
 
   <a href="https://wa.me/+25777880594?text=hello Trésor">
     <img
     src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="Whatsapp Badge"/>
-  </a>
+  </a>&nbsp;
 
 </div>
 
