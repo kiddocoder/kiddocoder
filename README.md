@@ -75,7 +75,7 @@ I'm a passionate developer always looking for new challenges and collaboration o
 <div align="center">
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
-  <img width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstrom/phpstrom-original.svg" />
+  <img width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpStrom/phpStrom-original.svg" />
 
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
 
