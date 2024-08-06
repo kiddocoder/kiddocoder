@@ -44,7 +44,7 @@ I'm a passionate developer always looking for new challenges and collaboration o
 
  <img width="25" height="25"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 
- <img width="25" height="25"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" />
+ <img width="25" height="25"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
