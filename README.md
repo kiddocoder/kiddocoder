@@ -2,8 +2,7 @@
 <div align="left">
   <img src="https://kiddocoder.github.io/portfolio/images/tresor.jpg" alt="Profile Image" width="150" style="border-radius: 50%;">
 </div>
-
-# <div align="right">👋 Hello, I'm Trésor</div>
+<div align="right">👋 Hello, I'm Trésor</div>
 
 ## My Github stats
 
