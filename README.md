@@ -18,6 +18,14 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=kiddocoder&show_icons=true&theme=dark" />
   </picture>
+
+  <picture>
+     <source
+     srcset="https://github-readme-streak-stats.herokuapp.com/?user=kiddocoder&theme=dark"
+     />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiddocoder&theme=dark">
+  </picture>
+  
 </div>
 
 ## About Me
@@ -45,10 +53,6 @@ I'm a passionate developer always looking for new challenges and collaboration o
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff" />
 </div>
-
-## Contribution Stats
-
-![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=kiddocoder&theme=dark)
 
 </br>
 
