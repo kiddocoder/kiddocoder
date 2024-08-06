@@ -4,6 +4,18 @@
   <img src="https://kiddocoder.github.io/portfolio/images/tresor.jpg" alt="Profile Image" width="150" style="border-radius: 50%;">
 </div>
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 ## My GitHub Stats
 
 <div dir="auto">
@@ -75,8 +87,6 @@ I'm a passionate developer always looking for new challenges and collaboration o
 <div align="center">
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
-  <img width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpStrom/phpStrom-original.svg" />
-
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
 
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
@@ -85,7 +95,6 @@ I'm a passionate developer always looking for new challenges and collaboration o
 
 
 </div>
-
 </br>
 
 ## Follow Me
