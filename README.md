@@ -15,8 +15,7 @@
 
   <a href="https://wa.me/+25777880594?text=hello Trésor">
     <img
-    src="" alt="Whatsapp Badge
-    data-canonical-src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge"/>
+    src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="Whatsapp Badge"/>
   </a>
 
 </div>
