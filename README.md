@@ -47,6 +47,9 @@ I'm a passionate developer always looking for new challenges and collaboration o
  <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
  <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+
+<img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+
 </div>
 <br>
 
@@ -60,7 +63,6 @@ I'm a passionate developer always looking for new challenges and collaboration o
 
   <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-  <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/obs/obs-original.svg" />
 
 </div>
 
