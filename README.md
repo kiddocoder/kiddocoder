@@ -1,8 +1,9 @@
 
+## 👋 Hello, I'm Trésor
+
 <div align="left">
   <img src="https://kiddocoder.github.io/portfolio/images/tresor.jpg" alt="Profile Image" width="150" style="border-radius: 50%;">
 </div>
-#<div align="right">👋 Hello, I'm Trésor</div>
 
 ## My Github stats
 
@@ -35,15 +36,15 @@ Here are some technologies and languages I use:
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-typeScript-3776AB?style=flat&logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-php-007396?style=flat&logo=java&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c%2B%2B&logoColor=fff" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-MongoDB-092E20?style=flat&logo=django&logoColor=fff" />
 </div>
 
 <div align="center">
