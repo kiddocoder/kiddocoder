@@ -5,21 +5,28 @@
 </div>
 
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiddocoder&show_icons=true&theme=dark)
+ ## My stats
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kiddocoder&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kiddocoder&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kiddocoder&show_icons=true" />
+</picture>
 </div>
 
 ## About Me
 
-I'm a passionate developer always looking for new challenges and collaboration opportunities. My goal is to create innovative solutions that meet user needs.
+I'm a passionate developer always looking for new challenges and collaboration opportunities,
+With a meticulous approach and a passion for innovation, I breathe life into ideas within the digital realm. My work integrates user-centric design, aesthetic ingenuity, and seamless backend and frontend development, resulting in captivating and memorable user experiences By building a smooth ,robust and scalable web site or application.
 
-- 🔭 Currently working on: [Your Current Project](link_to_project)
-- 🌱 Learning: [Technology or Language You're Learning]
-- 👯 Looking to collaborate on: [Areas of Interest]
-- 🤔 Seeking help with: [Area You Need Help With]
-- 💬 Ask me about: [Topics You're Comfortable With]
-- 📫 How to reach me: [Your Email or LinkedIn]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [An Interesting Fact About You]
+My goal is to create innovative solutions that meet user needs.
+
 
 ## Technologies & Languages
 
