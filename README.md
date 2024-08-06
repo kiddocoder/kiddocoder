@@ -7,7 +7,7 @@
 
 ## My Github stats
 
-<div align="center">
+<div align="left">
 
 <picture>
   <source
@@ -51,14 +51,6 @@ Here are some technologies and languages I use:
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff" />
 </div>
-
-## My Projects
-
-Here are some projects I've worked on:
-
-- [Project Name 1](link_to_project_1) - Brief description of the project.
-- [Project Name 2](link_to_project_2) - Brief description of the project.
-- [Project Name 3](link_to_project_3) - Brief description of the project.
 
 ## Contribution Stats
 
