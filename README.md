@@ -27,9 +27,7 @@ I'm a passionate developer always looking for new challenges and collaboration o
 ## Technologies & Languages
 
 ### Languages
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiddocoder&layout=compact)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiddocoder&layout=compact)
 <br>
 
 ### Stacks & Frameworks
@@ -49,9 +47,10 @@ I'm a passionate developer always looking for new challenges and collaboration o
 </div>
 
 ## Contribution Stats
-<div align="center">
-  ![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=kiddocoder&theme=dark)
-</div>
+
+![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=kiddocoder&theme=dark)
+
+</br>
 
 ## Follow Me
 Feel free to check out my portfolio: [kiddocoder.github.io/portfolio](https://kiddocoder.github.io/portfolio)
