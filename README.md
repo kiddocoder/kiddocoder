@@ -34,7 +34,7 @@ I'm a passionate developer always looking for new challenges and collaboration o
 
 ## Technologies & Languages
 
-### Languages
+### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiddocoder&layout=compact)
 <br>
 
