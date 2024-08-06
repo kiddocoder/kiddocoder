@@ -10,7 +10,7 @@
   </a>
 
   <a href="https://x.com/@kiddocoder">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=#111&logoColor=white&labelColor=&style=for-the-badge" alt="Twitter Badge"/>
   </a>
 
   <a href="https://wa.me/+25777880594?text=hello Trésor">
