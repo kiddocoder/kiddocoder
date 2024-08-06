@@ -6,7 +6,7 @@
 
 ## My GitHub Stats
 
-<div style="display:flex;">
+<div dir="auto">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=kiddocoder&show_icons=true&theme=dark"
@@ -50,6 +50,10 @@ I'm a passionate developer always looking for new challenges and collaboration o
 
 ### Tools
 <div align="center">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff" />
 </div>
