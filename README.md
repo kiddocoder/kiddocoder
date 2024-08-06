@@ -39,14 +39,18 @@ Here are some technologies and languages I use:
   <img src="https://img.shields.io/badge/-TypeScript-3776AB?style=flat&logo=typescript&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Php-007396?style=flat&logo=php&logoColor=fff" />
   <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c%2B%2B&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-dart-?style=flat&logo=dart%2B%2B&logoColor=fff" />
 </div><br><br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/-Flutter-61DAFB?style=flat&logo=flutter&logoColor=000" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff" />
   <img src="https://img.shields.io/badge/-MongoDB-092E20?style=flat&logo=django&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Laravel-61DAFB?style=flat&logo=laravel&logoColor=000" />
 </div><br><br>
 
+# Tools
 <div align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff" />
