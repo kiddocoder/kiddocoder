@@ -44,7 +44,7 @@ I'm a passionate developer always looking for new challenges and collaboration o
 
    <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
- <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+ <!-- <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> -->
 
  <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
