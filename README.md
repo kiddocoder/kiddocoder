@@ -50,7 +50,7 @@ I'm a passionate developer always looking for new challenges and collaboration o
 
 ### Tools
 <div align="center">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff" />
+  <img width="160" height="160" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=fff" />
