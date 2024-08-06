@@ -6,7 +6,7 @@
 
 ## My GitHub Stats
 
-<div align="center">
+<div style="display:flex;">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=kiddocoder&show_icons=true&theme=dark"
@@ -25,7 +25,7 @@
      />
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiddocoder&theme=dark">
   </picture>
-  
+
 </div>
 
 ## About Me
