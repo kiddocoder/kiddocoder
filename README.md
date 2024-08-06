@@ -36,8 +36,8 @@ Here are some technologies and languages I use:
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/-typeScript-3776AB?style=flat&logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-php-007396?style=flat&logo=java&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-TypeScript-3776AB?style=flat&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Php-007396?style=flat&logo=php&logoColor=fff" />
   <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c%2B%2B&logoColor=fff" />
 </div>
 
