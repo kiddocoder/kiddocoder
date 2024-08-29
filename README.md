@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Trésor a Full Stack Developer from Burundi  .
+# 👋 Hello, I'm Trésor a Full Stack Developer from Burundi.
 
 <div align="center">
   <img src="https://kiddocoder.github.io/portfolio/images/tresor.jpg" alt="Profile Image" width="150" style="border-radius: 50%;">
