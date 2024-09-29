@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/kiddocoder">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
 
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" alt="Twitter Badge"/>
   </a>&nbsp;
 
-  <a href="https://wa.me/+25777880594?text=hello Trésor">
+  <a href="https://wa.me/+25766678298?text=Hello Mr Trésor?">
     <img
     src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="Whatsapp Badge"/>
   </a>&nbsp;
