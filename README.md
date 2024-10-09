@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Trésor a Full Stack Developer from Burundi.
 
 <div align="center">
-  <img src="https://kiddocoder.github.io/portfolio/images/tresor.jpg" alt="Profile Image" width="150" style="border-radius: 50%;">
+  <img src="./assets/images/R.jpg" alt="Profile Image" width="150" style="border-radius: 50%;">
 </div>
 
 <div id="badges" align="center">
@@ -51,10 +51,12 @@ I'm a passionate developer always looking for new challenges and collaboration o
 ## Technologies & Languages
 
 ### Top Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiddocoder&layout=compact)
 <br>
 
 ### Stacks , Frameworks & Languages
+
 <div align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
 
@@ -88,6 +90,7 @@ I'm a passionate developer always looking for new challenges and collaboration o
 <br>
 
 ### Tools
+
 <div align="center">
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
@@ -97,11 +100,11 @@ I'm a passionate developer always looking for new challenges and collaboration o
 
   <img width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-
 </div>
 </br>
 
 ## Follow Me
+
 Feel free to check out my portfolio: [https://kiddocoder.github.io/portfolio](https://kiddocoder.github.io/portfolio)
 
 Thanks for visiting my profile! I'm looking forward to collaborating with you. 😊
