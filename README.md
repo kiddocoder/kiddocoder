@@ -102,6 +102,6 @@ I'm a passionate developer always looking for new challenges and collaboration o
 </br>
 
 ## Follow Me
-Feel free to check out my portfolio: [kiddocoder.github.io/portfolio](https://kiddocoder.github.io/portfolio)
+Feel free to check out my portfolio: [https://kiddocoder.github.io/portfolio](https://kiddocoder.github.io/portfolio)
 
 Thanks for visiting my profile! I'm looking forward to collaborating with you. 😊
