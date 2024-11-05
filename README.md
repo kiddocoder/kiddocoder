@@ -46,7 +46,9 @@
 
 ## About Me
 
-I'm a passionate developer always looking for new challenges and collaboration opportunities. With a meticulous approach and a passion for innovation, I breathe life into ideas within the digital realm. My work integrates user-centric design, aesthetic ingenuity, and seamless backend and frontend development, resulting in captivating and memorable user experiences. My goal is to create innovative solutions that meet user needs.
+I’m a passionate developer with a focus on simple web design and mobile app design in figma. I bring ideas to life with a blend of front-end and back-end expertise, creating seamless, user-friendly experiences. While user design is vast, I focus on crafting intuitive and functional interfaces that meet user needs, all while ensuring robust and scalable backend solutions. My approach is driven by innovation, aiming to deliver impactful and memorable digital experiences from start to finish.
+
+
 
 ## Technologies & Languages
 
