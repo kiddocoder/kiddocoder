@@ -1,112 +1,86 @@
-# 👋 Hello, I'm Trésor a Full Stack Developer from Burundi.
+# 👋 Hello, I'm Trésor Ndayikeza | Full Stack Developer
 
 <div align="center">
-  <img src="./assets/images/R.jpg" alt="Profile Image" width="150" style="border-radius: 50%;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=600&lines=Full+Stack+Developer+from+Burundi;Creating+Seamless+Digital+Experiences;Problem+Solver+%7C+Innovation+Enthusiast" alt="Typing SVG" />
 </div>
 
-<div id="badges" align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/tresor-ndayikeza">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>&nbsp;
-
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://x.com/@coderkiddo">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" alt="Twitter Badge"/>
-  </a>&nbsp;
-
-  <a href="https://wa.me/+25766678298?text=Hello Mr Trésor?">
-    <img
-    src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="Whatsapp Badge"/>
-  </a>&nbsp;
-
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://wa.me/+25766678298?text=Hello Mr Trésor">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://kiddocoder.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
-## My GitHub Stats
+## 🚀 About Me
 
-<div dir="auto">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=kiddocoder&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=kiddocoder&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=kiddocoder&show_icons=true&theme=dark" />
-  </picture>
+I'm a passionate **Full Stack Developer** with a keen eye for crafting intuitive, scalable digital solutions. With **3 years of professional experience**, I specialize in transforming complex ideas into elegant, user-friendly applications.
 
-  <picture>
-     <source
-     srcset="https://github-readme-streak-stats.herokuapp.com/?user=kiddocoder&theme=dark"
-     />
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiddocoder&theme=dark">
-  </picture>
+### 💡 Professional Highlights
+- 🌐 Expert in React (TypeScript), Node.js, Laravel
+- 🎨 UI/UX Design with Figma
+- 🛠 Proficient in TailwindCSS
+- 🏆 Proven track record of delivering high-quality, scalable products
 
-</div>
-
-## About Me
-
-I’m a passionate developer with a focus on simple web design and mobile app design in figma. I bring ideas to life with a blend of front-end and back-end expertise, creating seamless, user-friendly experiences. While user design is vast, I focus on crafting intuitive and functional interfaces that meet user needs, all while ensuring robust and scalable backend solutions. My approach is driven by innovation, aiming to deliver impactful and memorable digital experiences from start to finish.
-
-
-
-## Technologies & Languages
-
-### Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiddocoder&layout=compact)
-<br>
-
-### Stacks , Frameworks & Languages
+## 📊 GitHub Stats
 
 <div align="center">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
-
-   <img width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-
-   <img width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-  <!--<img width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />-->
-
- <!-- <img width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> -->
-
-  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>-->
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-
- <img width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
-
-<img width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=kiddocoder&theme=gitdimmed&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
-<br>
-
-### Tools
 
 <div align="center">
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
-
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-
-  <img width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiddocoder&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kiddocoder&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiddocoder&layout=compact&theme=transparent&hide_border=true" />
 </div>
-</br>
 
-## Follow Me
+## 🛠️ Tech Stack
 
-Feel free to check out my portfolio: [https://kiddocoder.github.io/portfolio](https://kiddocoder.github.io/portfolio)
+### Languages & Frameworks
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,mysql,mongodb,laravel,tailwind,html,css,sass,js" />
+</div>
 
-Thanks for visiting my profile! I'm looking forward to collaborating with you. 😊
+### Development Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,docker,git,postman,figma" />
+</div>
+
+## 🌟 What I Bring to the Table
+
+- **Innovative Problem Solving**: Transforming challenges into opportunities
+- **Agile Methodology**: Delivering high-quality products on time
+- **Cross-Functional Collaboration**: Bridging design and development
+- **Performance Optimization**: Creating lightning-fast, efficient applications
+
+## 🤝 Let's Connect!
+
+Interested in collaboration or have a project in mind? I'm always open to exciting opportunities and innovative projects.
+
+<div align="center">
+  <a href="mailto:tresornday@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://kiddocoder.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Schedule%20a%20Call-4CAF50?style=for-the-badge&logo=google-meet&logoColor=white" alt="Schedule Call"/>
+  </a>
+</div>
+
+## 📈 Profile Views
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kiddocoder/count.svg" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by Trésor Ndayikeza</sub>
+</div>
