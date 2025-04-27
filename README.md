@@ -24,17 +24,16 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,mysql,mongodb,laravel,tailwind,html,css,sass,js" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,mysql,mongodb,laravel,tailwind" />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,docker,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,docker,git,postman" />
 </div>
 
 ## 🌟 What I Bring to the Table
 
 - **Innovative Problem Solving**: Transforming challenges into opportunities
 - **Agile Methodology**: Delivering high-quality products on time
-- **Cross-Functional Collaboration**: Bridging design and development
 - **Performance Optimization**: Creating lightning-fast, efficient applications
 
 ## 📈 Profile Views
