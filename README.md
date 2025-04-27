@@ -28,12 +28,10 @@
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,mysql,mongodb,laravel,tailwind,html,css,sass,js" />
 </div>
-
-### Development Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,docker,git,postman,figma" />
 </div>
