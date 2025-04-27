@@ -14,12 +14,6 @@
   </a>
 </div>
 
-
-### 💡 Professional Highlights
-- 🌐 Expert in React (TypeScript), Node.js, Laravel
-- 🛠 Proficient in TailwindCSS
-- 🏆 Proven track record of delivering high-quality, scalable products
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiddocoder&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kiddocoder&theme=transparent&hide_border=true" />
