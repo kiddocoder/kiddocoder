@@ -9,9 +9,6 @@
   <a href="https://wa.me/+25766678298?text=Hello Mr Trésor">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://kiddocoder.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
 </div>
 
 <div align="center">
