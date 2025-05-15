@@ -17,14 +17,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiddocoder&layout=compact&theme=transparent&hide_border=true" />
 </div>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & tools
 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,mysql,mongodb,laravel,tailwind" />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,docker,git,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,docker,git,postman,figma" />
 </div>
 
 ## 🌟 What I Bring to the Table
