@@ -32,9 +32,3 @@
 - **Innovative Problem Solving**: Transforming challenges into opportunities
 - **Agile Methodology**: Delivering high-quality products on time
 - **Performance Optimization**: Creating lightning-fast, efficient applications
-
-## 📈 Profile Views
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kiddocoder/count.svg" alt="Profile Views" />
-</div>
