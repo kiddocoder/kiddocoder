@@ -19,7 +19,7 @@ Building and running software end to end, from architecture to deployment to the
 
 I'm a software developer based in Bujumbura. I work across the full lifecycle of a product, writing the code, designing the architecture, setting up the infrastructure, and leading the team building it.
 
-- Full Stack Development: building web applications end to end, from database to UI
+- Full Stack Development: building applications end to end, from database to UI
 - Software Architecture: designing system structure, data models, and APIs for maintainability and scale
 - DevOps: setting up CI/CD pipelines, containerization, and deployment infrastructure
 - System Administration: managing servers, environments, and production systems
@@ -62,8 +62,8 @@ I'm a software developer based in Bujumbura. I work across the full lifecycle of
 ## GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kiddocoder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiddocoder&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=kiddocoder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kiddocoder&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
