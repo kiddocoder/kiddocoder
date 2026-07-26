@@ -59,14 +59,6 @@ I'm a software developer based in Bujumbura. I work across the full lifecycle of
 
 <br/>
 
-## Featured Work
-
-- Fintech Platforms: Loan management and payments/commission platforms with admin dashboards and system health monitoring
-- Health Tech Registry: A structured, relational patient registry system designed for real world public health data
-- Internal Tools: Custom dashboards and management systems built for specific business workflows
-
-<br/>
-
 ## GitHub Stats
 
 <div align="center">
